@@ -30,7 +30,7 @@
 <body>
   <div class="card">
     <h2>Selamat Ulang Tahun!</h2>
-    <img src="![ija](https://github.com/user-attachments/assets/e5afdffe-797b-4802-86e0-0c5c043b8d4a).jpg" alt="Foto Ulang Tahun">
+    <img src="\Users\Acer\Downloads\Foto dari kemal.jpg" alt="Foto Ulang Tahun">
     <p>happy birthdayy, may Allah take care of you wherever you are and i wish you're happy with your life now</p>
     <p>—kemal</p>
   </div>
