@@ -30,7 +30,7 @@
 <body>
   <div class="card">
     <h2>Selamat Ulang Tahun!</h2>
-    <img src="\Users\Acer\Downloads\Foto dari kemal.jpg" alt="Foto Ulang Tahun">
+    <img src="https://photos.google.com/album/AF1QipOF3dSoX4WBFP3gHYGq7UveoIHHZmo4GXnf3dH8/photo/AF1QipNWQULB4ruRb-ZCB1EICCY69C1CTt7IAerTUj6s">
     <p>happy birthdayy, may Allah take care of you wherever you are and i wish you're happy with your life now</p>
     <p>—kemal</p>
   </div>
